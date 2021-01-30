@@ -1,0 +1,70 @@
+{
+  "dishes": [
+    {
+      "id": "1",
+      "name": "Pongal",
+      "category": "Sweet",
+      "label": "xyz",
+      "price": "50",
+      "description": "Delicious South Indian dish made with rice, moong lentils, ghee, jaggery or sugar, cardamoms and nuts. It is traditional dish mostly made to offer the gods on special occasions & festivals. Sweet pongal is known as chakkara pongali in telugu & sakkarai pongal in tamil.",
+      "imgUrl": "https://www.indianveggiedelight.com/wp-content/uploads/2020/01/sweet_pongal-1-1152x1536.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Samosa",
+      "category": "Snack",
+      "label": "xyz",
+      "price": "10",
+      "description": "A samosa is a fried or baked pastry with a savory filling, such as spiced potatoes, onions, peas, cheese, beef and other meats, or lentils.",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Samosachutney.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Pizza",
+      "category": "Snack",
+      "label": "xyz",
+      "price": "100",
+      "description": "Pizza is a savory dish of Italian origin consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients, which is then baked at a high temperature, traditionally in a wood-fired oven.",
+      "imgUrl": "https://content.jdmagicbox.com/comp/palghar/x8/022pxx22.xx22.190319190343.v3x8/catalogue/pizza-hut-virar-west-palghar-pizza-outlets-t0gpfzz86w.jpg"
+    },
+    {
+      "name": "Plain Rice",
+      "category": "Rice",
+      "label": "",
+      "price": "100",
+      "description": "Rice is cooked by boiling, or it can be ground into a flour. It is eaten alone and in a great variety of soups, side dishes, and main dishes in Asian, Middle Eastern, and many other cuisines.",
+      "imgUrl": "https://www.indianfoodforever.com/iffwd/wp-content/uploads/2019/10/plain-rice.jpg",
+      "comments": [],
+      "id": "kyfeY1J"
+    },
+    {
+      "name": "Vegetable Biryani",
+      "category": "Rice",
+      "label": "",
+      "price": "120",
+      "description": "Vegetable biryani is an aromatic rice dish made by cooking basmati rice with mix veggies, herbs & biryani spices. Traditionally Biryani was made by dum cooking marinated meat with basmati rice & spices. Making a vegetarian version becomes much simpler as the veggies need no marination.",
+      "imgUrl": "https://yummytummyrecipes.com/wp-content/uploads/2020/08/Untitled-design-min-1024x625.png",
+      "id": "sHARFJx"
+    }
+  ],
+  "comments": [
+    {
+      "author": "John Doe",
+      "com": "tastes good",
+      "id": "Dc2HF7J"
+    },
+    {
+      "author": "K. A Vardhan",
+      "com": "awsome",
+      "id": "nubL1UP"
+    }
+  ],
+  "contacted": [
+    {
+      "name": "John Doe",
+      "email": "someone@someone.com",
+      "reason": "For some reason.",
+      "id": 3
+    }
+  ]
+}
